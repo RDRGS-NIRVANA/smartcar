@@ -1,0 +1,8 @@
+prefix=/home/zhoukaichen/IntelligentCar/install
+
+Name: roborts_base
+Description: Description of roborts_base
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/zhoukaichen/IntelligentCar/install/lib 
+Requires: 

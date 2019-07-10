@@ -1,0 +1,8 @@
+prefix=/home/zhoukaichen/IntelligentCar/install
+
+Name: test_car
+Description: Description of test_car
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/zhoukaichen/IntelligentCar/install/lib 
+Requires: roscpp rospy std_msgs

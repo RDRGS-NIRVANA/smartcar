@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/roborts_msgs_generate_messages_py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionActionResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionAction.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerActionGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionActionFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerAction.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerActionFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerActionFeedback.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerActionGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerActionResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionActionGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ShootState.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_TwistAccel.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerActionResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ObstacleMsg.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GimbalAngle.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ArmorDetectionResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerAction.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GlobalPlannerResult.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_ShootInfo.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_LocalPlannerGoal.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/_GimbalRate.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/srv/_GimbalMode.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/srv/_FricWhl.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/srv/_ShootCmd.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/msg/__init__.py"
+  "/home/zhoukaichen/IntelligentCar/devel/lib/python2.7/dist-packages/roborts_msgs/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/roborts_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
